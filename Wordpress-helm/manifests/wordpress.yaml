@@ -8,4 +8,4 @@ spec:
     name: wordpress
     chartVersion: 10.6.10
   values:
-    username: kotsadmin
+    WORDPRESS_USERNAME: kotsadmin
